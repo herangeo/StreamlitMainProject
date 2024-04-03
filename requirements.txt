@@ -1,0 +1,5 @@
+dotenv
+os
+google.generativeai
+pandas
+plotly
